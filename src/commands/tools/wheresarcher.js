@@ -19,7 +19,6 @@ module.exports = {
       "I said I was gonna get on but I'm going to watch movies and pretend to get high.",
       "Kasie made me go out last minute.",
       "I had a manic episode and didn't actually plan on getting on.",
-      "Beating off...this wont take long.",
       "So I got side tracked hahahah",
       "Your text seemed like you didn't want to do much so I did not get on.",
       "I forgot I had to do something else.",
