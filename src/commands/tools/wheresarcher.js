@@ -28,6 +28,7 @@ module.exports = {
       "In the sauna.",
       "Taking another bath.",
       "'Be on in 20'"
+      "My power went out because basketball americans cant drive."
 
     ];
     const randomIndex = Math.floor(Math.random() * messages.length);
