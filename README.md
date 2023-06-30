@@ -32,7 +32,14 @@
       <pre><code>cd wheresarcher</code></pre>
     </li>
     <li>
-      Install the required dependencies:
+      Install the required dependencies: 
+      "dependencies": {
+      "@discordjs/rest": "^1.7.0",
+      "chalk": "^4.1.2",
+      "discord-api-types": "^0.37.38",
+      "discord.js": "^14.9.0",
+      "dotenv": "^16.0.3",
+      "node-fetch": "^2.6.9"
       <pre><code>npm install</code></pre>
     </li>
     <li>
