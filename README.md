@@ -33,7 +33,7 @@
     </li>
     <li>
       Install the required dependencies: 
-      "dependencies": {
+      "dependencies": 
       "@discordjs/rest": "^1.7.0",
       "chalk": "^4.1.2",
       "discord-api-types": "^0.37.38",
