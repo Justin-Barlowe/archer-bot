@@ -31,6 +31,8 @@ module.exports = {
       "Gummies made me yummy.",
       "wadu hek",
       "Where's my vape",
+      "Killing bugs.",
+      
 
     ];
     const randomIndex = Math.floor(Math.random() * messages.length);
