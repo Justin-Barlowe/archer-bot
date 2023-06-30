@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>WheresArcher</title>
-</head>
-
 <body>
   <h1>Discord Reply Bot - WheresArcher</h1>
   <p>
