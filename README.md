@@ -29,7 +29,7 @@
     </li>
     <li>
       Navigate to the project directory:
-      <pre><code>cd discord-reply-bot-wheresarcher</code></pre>
+      <pre><code>cd wheresarcher</code></pre>
     </li>
     <li>
       Install the required dependencies:
