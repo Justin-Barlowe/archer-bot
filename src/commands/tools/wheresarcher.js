@@ -6,7 +6,7 @@ module.exports = {
     .setDescription("Find out where Archer is instead of being on like he said he would be."),
   async execute(interaction, client) {
     const messages = [
-      "Feeding the pigs.",
+      "Feeding the pig.",
       "Getting yelled at by Kasie.",
       "Taking a bath.",
       "Taking a nap.",
@@ -26,14 +26,17 @@ module.exports = {
       "Feeding the dogs.",
       "Feeding the cats.",
       "In the sauna.",
+      "In the cryochamber pretending like it's doing something for me",
+      "Busy trying to figure our which sock is for my left foot",
+      "Well I'm definitely not at Brody's house.",
       "Taking another bath.",
       "'Be on in 20'",
       "Gummies made me yummy.",
       "wadu hek",
       "Where's my vape",
       "Killing bugs.",
+      "I invited someone over and pretended like I didn't so I had an excuse that didn't seem like my fault."
       
-
     ];
     const randomIndex = Math.floor(Math.random() * messages.length);
     const randomMessage = messages[randomIndex];
